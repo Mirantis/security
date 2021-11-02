@@ -1,0 +1,16 @@
+# check basic comms
+# so far, check for security.txt
+name: basic checks
+on:
+  schedule:
+    - cron:  '45 11 * * *'
+  workflow_dispatch:
+jobs:
+  check_security_txt:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+           sum=$(curl https://mirantis.com/.well-known/security.text |sha256sum)
+           echo $sum
+           [ "$sum" == 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  -' ] || exit 1
+       
