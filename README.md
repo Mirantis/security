@@ -5,6 +5,7 @@
 This repository is home to the public facing documentation of the Mirantis PSIRT (Product Security Incident Response Team). Here you will find
 
 * [Mirantis Vulnerability Disclosure Policy](vulnerability-disclosure-policy.md)
+* [Security Advisories](/advisories/advisories.md)
 * [PSIRT overview](/psirt/overview.md)
 * [PSIRT training resources](/psirt/training.md)
 
