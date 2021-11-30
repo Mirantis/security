@@ -8,6 +8,7 @@ This repository is home to the public facing documentation of the Mirantis PSIRT
 * [Security Advisories](/advisories/advisories.md)
 * [PSIRT overview](/psirt/overview.md)
 * [PSIRT training resources](/psirt/training.md)
+* [Mirantis Secure Development Lifecycle](/sdl/overview.md)
 
 
 ## Contact
