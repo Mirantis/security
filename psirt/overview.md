@@ -94,6 +94,8 @@ The Mirantis PSIRT uses [CVSSv3.1](https://www.first.org/cvss/v3.1/specification
 | 7.0 - 8.9 | High |
 | 9.0 - 10.0 | Critical |
 
+The PSIRT uses the qualitative security rating to set targets for [turnaround of issues](/psirt/targets.md).
+
 ### Reporting Data Leaks
 
 Mirantis is ISO 27001 certified and as such has policies and procedures in place for the protection of customer and corporate data. If customer or corporate
