@@ -9,8 +9,8 @@ Targets for remediation of a vulnerability are
 | Severity | Remediation Target |
 |----------|--------------------|
 | Critical | Patch/mitigation within 48 hours |
-| Medium/High | Fix in maintenance Release with 7 days |
-| Low | Fix in next scheduled maintenance release |
+| Medium/High | Patch/mitigation within 7 days |
+| Low | Patch/mitigation for next scheduled maintenance release |
 
 These are _internal targets for the PSIRT_ and do not constitute a Service Level Agreement or
 a binding contract.
