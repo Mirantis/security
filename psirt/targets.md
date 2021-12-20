@@ -10,7 +10,7 @@ Targets for remediation of a vulnerability are
 |----------|--------------------|
 | Critical | Patch/mitigation ready for test within 48 hours |
 | Medium/High | Patch/mitigation ready for test within 7 days |
-| Low | Patch/mitigation for next scheduled maintenance releases sprint |
+| Low | Patch/mitigation for next scheduled maintenance release sprint |
 
 These are _internal targets for the PSIRT_ and do not constitute a Service Level Agreement or
 a binding contract.
