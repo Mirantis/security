@@ -109,9 +109,9 @@ the key people required to mitigate the vulnerability.
 ### Reproducing Vulnerability
 
 The Mirantis PSIRT works with development teams to reproduce the vulnerability if possible. Some
-classes of vulnerability may be theoretical e.g. crytographic problems but have a clear path
+classes of vulnerability may be theoretical e.g. cryptographic problems but have a clear path
 to mitigation and this step may be skipped. For others, it is essential to create test cases
-which reproduce the problem so that tests for mitagations can be added to Continuous Integration tests (CI).
+which reproduce the problem so that tests for mitigations can be added to Continuous Integration tests (CI).
 
 ### Search for Similar Vulnerabilities
 
@@ -120,7 +120,7 @@ be using a technology in the wrong way repeatedly due to misunderstanding, gaps 
 or simply that a new class of vulnerability has become apparent.
 
 To address this, the PSIRT will search for similar vulnerabilities or vulnerability patterns and
-report findings in the normal vulnerability reporting process. The PSIRT may choose to short-circuit this process and add the new findings to current vulnerability report.
+report findings in the normal vulnerability reporting process. The PSIRT may choose to short-circuit this process and add the new findings to the current vulnerability report.
 
 ### Mitigate
 
@@ -133,7 +133,7 @@ Mirantis PSIRT will work with development teams to find mitigations. These can b
 
 ### Release
 
-Once any mitagations have been successfully applied, a product release will be scheduled using the
+Once any mitigations have been successfully applied, a product release will be scheduled using the
 normal development mechanisms. Once the release is public, the PSIRT will publish a security advisory.
 
 ### Publish Security Vulnerability
