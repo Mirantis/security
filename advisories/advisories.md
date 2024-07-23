@@ -1,5 +1,6 @@
 ## Security Advisories
 
+* [0013](/advisories/0013.md): Mirantis Container Products and CVE-2024-41110: Not Vulnerable
 * [0012](/advisories/0012.md): Mirantis Container Products and CVE-2024-3094: Not Vulnerable
 * [0011](/advisories/0011.md): Mirantis Kubernetes Engine (MKE) and CVE-2024-21626: Understanding the Potential Impact and Mitigation
 * [0010](/advisories/0010.md): MCR: runc process.cwd and leaked fds container breakout
