@@ -1,5 +1,6 @@
 ## Security Advisories
 
+* [0019](/advisories/0019.md): Local privilege escalation and sensitive file disclosure (Linux kernel ptrace, CVE-2026-46333) affects Mirantis OpenStack for Kubernetes (MOSK) cluster nodes
 * [0018](/advisories/0018.md): Linux Kernel "Dirty Frag" (CVE-2026-43284, CVE-2026-43500): Impact on Mirantis Container Runtime (MCR), Mirantis Kubernetes Engine (MKE), and Mirantis Secure Registry (MSR)
 * [0017](/advisories/0017.md): Local privilege escalation (Linux kernel “Dirty Frag”, CVE-2026-43284 and CVE-2026-43500) affects Mirantis OpenStack for Kubernetes (MOSK) cluster nodes when ESP or RxRPC paths are exposed
 * [0016](/advisories/0016.md): Linux Kernel “Copy-Fail” (CVE-2026-31431): Impact on Mirantis Container Runtime (MCR), Mirantis Kubernetes Engine (MKE), and Mirantis Secure Registry (MSR)
