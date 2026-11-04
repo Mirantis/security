@@ -1,5 +1,6 @@
 ## Security Advisories
 
+* [0022](/advisories/0022.md): Remote code execution and denial of service (Linux kernel IPv4 TCP, CVE-2026-98432) affects Mirantis OpenStack for Kubernetes (MOSK) cluster nodes
 * [0021](/advisories/0021.md): Mirantis Container Products and PHP2Shell (CVE-2026-109618, CVE-2026-109619): Not Vulnerable
 * [0020](/advisories/0020.md): Guest-to-host escape and host denial of service (Linux kernel "Januscape", CVE-2026-53359) affects Mirantis OpenStack for Kubernetes (MOSK) compute nodes
 * [0019](/advisories/0019.md): Local privilege escalation and sensitive file disclosure (Linux kernel ptrace, CVE-2026-46333) affects Mirantis OpenStack for Kubernetes (MOSK) cluster nodes
