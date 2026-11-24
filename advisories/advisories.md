@@ -1,5 +1,6 @@
 ## Security Advisories
 
+* [0024](/advisories/0024.md): Remote code execution in NGINX (nginx2root: CVE-2026-123007, CVE-2026-123633, CVE-2026-123634, CVE-2026-121810, CVE-2026-113425) affects the Mirantis OpenStack for Kubernetes (MOSK) management console
 * [0023](/advisories/0023.md): Remote code execution in Java runtimes (OpenJDK Base64 decoder, CVE-2026-114938 "Java4Shell") affects Mirantis OpenStack for Kubernetes (MOSK)
 * [0022](/advisories/0022.md): Host denial of service, with possible remote code execution (Linux kernel IPv4 TCP, CVE-2026-98432) affects Mirantis OpenStack for Kubernetes (MOSK) cluster nodes
 * [0021](/advisories/0021.md): Mirantis Container Products and PHP2Shell (CVE-2026-109618, CVE-2026-109619): Not Vulnerable
